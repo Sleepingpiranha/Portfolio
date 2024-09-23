@@ -1,0 +1,72 @@
+Unit Project 1
+
+For this project, you will be graded based on the competencies AND requirements listed in these instructions. Your final competency score will be multiplied by the percentage of requirements that you meet.
+
+Each competency will be graded on the following scale:
+	- 0 (Competency not present/Not Demonstrated)
+	- 1 (Competency present, demonstrated correct approach but does not work)
+	- 2 (Competency present, works with some issues)
+	- 3 (Competency present, works without issues)
+
+======================
+=====REQUIREMENTS=====
+======================
+
+For this project, you will build a portfolio site. You will complete the following:
+1. A wireframe of the basic page template for pages on your site.
+	-This should show the layout/position of the following elements:
+		-The header
+		-The navigation
+		-The main content area
+		-The content within the main content area (must have at least two columns)
+		-Any logos/banner images you use
+
+2. A template HTML page, including an external CSS stylesheet.
+	-This should utilize CSS to create a page that matches the specifications of your wireframe.
+	-To ensure that all elements line up correctly, you can use the CSS "*{outline:1px solid red;}" to check the boxes.
+	-Additionally, this template should include the following:
+		-Navigation links to your homepage, introduction assignment, and template page (we will add more links later).
+		-A color scheme that provides for high contrast between the font and background
+
+4. A homepage with the filename "index.html", that will be the homepage for your site.
+	-Additionally, this page should include the following:
+		-Text and/or images in each column of the main content area to introduce yourself/your projects or hobbies
+
+5. Any other pages you want to add. As you add more pages, be sure that there are links to them somewhere on your site (whether through the nav bar, or as links in the main content area or elsewhere)
+
+6. Validate the HTML and CSS used for your project with the W3C validators.
+
+When finished, use the same steps from the introduction assignment to upload your files to a GitHub repository. Ensure that GitHub Pages is enabled and test each page on your site through GitHub Pages. Once complete, submit a link to your site to this assignment, so that it takes me to the homepage of your GitHub Pages site. Be sure that your wireframe is also included within the repository. I will be able to view it from there, but it does not have to be on your site unless you want it to.
+
+An example of a completed project can be located here: 
+Webpage: https://kijinoparagon.github.io/Portfolio/
+Repository: https://github.com/KijinoParagon/Portfolio
+
+======================
+=====COMPETENCIES=====
+======================
+
+Technical Skills
+	-The site and pages run without errors, and matches the sitemap and wireframe specifications.
+		__/3
+
+Critical Thinking
+	-Navigating and viewing the site is clear and simple for the end user.
+		__/3
+	-The page template simplifies the process of adding new pages with consistent styling to the site
+		__/3
+
+Professionalism
+	-The folder structure and filenames are appropriately named to convey their meaning
+		__/3
+	-The Sitemap and Wireframe(s) make the visual layout and folder structure of the site clear
+		__/3
+	-The code for each file is correctly indented and spaced to show each 
+		__/3
+
+
+Competencies Total : __/18
+
+Percentage of requirements met: __/100%
+
+Total score: (__*__%)/18
